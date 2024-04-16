@@ -1,0 +1,46 @@
+<br><br/> it gives breaks in paragraph,instead og using <br> use <pre> it is uesd for poems ,quotations.
+Formatting tags are used to format the text.
+there are formatting tags like:
+<b></b> -->it is used to bold the text.
+<strong> -->it is also used to make text bold but better SEO.
+<u></u> -->it is used for underlining for words.
+<i></i> -->it is used for italics.
+<em> is also gives Italics</em>.(more emphasis on words(SEo)).
+<ins></ins> -->is  used make text
+if we write <a herf="mailto:abc@gmail.com>"abc@gmail.com</a>--->it calls mails.
+
+<!--Semantic Elements--->:by seeing this we can easily understand code. 
+<header>
+<section>
+<navy>
+<footer>
+<main>
+
+
+
+
+Lists:Lists are use to list of certain items.html contains three 3 types of lists.
+1.Ordered list:-List of items where order is important.
+eg:i.niyansh
+ii.hasini
+iii.hitesh
+2.Unordered list:-List of items where order is not important.
+eg:i.Skill-1
+ii.skill-2
+3.Description list:-List of events or items mentioned with reference.
+eg: A company's growth
+1995-2000
+   company established
+2001-2010
+   company went well
+2011-2023
+    company got success.
+2024
+    company bankrupt.
+
+task1:increase your profile page with ol,ul and dl.
+task 2:create a time table page.
+
+Tables:
+-------
+Tables are used to represent data in a simpler 
